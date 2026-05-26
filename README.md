@@ -41,6 +41,17 @@ KoSBERT 임베딩으로 과목-직무 유사도를 분석하여 시너지/충돌
 
 ---
 
+### Naver PC Redesign — 네이버 PC 웹페이지 개선
+> HCI 수업 프로젝트
+
+네이버 PC 메인 페이지의 사용성을 분석하고, 모듈형 카드 레이아웃 · 커스텀 위젯 · 드래그 앤 드롭 등의 개선안을 프로토타이핑했습니다.
+
+**Stack:** HTML · CSS · JavaScript
+
+[Repo](https://github.com/qkqqkqkq/naver-redesign) · [Demo](https://qkqqkqkq.github.io/naver-redesign)
+
+---
+
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qkqqkqkq&show_icons=true&theme=default&hide_border=true&count_private=true)
